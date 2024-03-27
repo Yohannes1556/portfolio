@@ -21,16 +21,16 @@ const About = () => {
                     strArray={['A','b','o','u','t',' ','M','e']}
                     idx={15}  />
                 </h1>
-                <p>
+                <p className='add-size'>
                     I'm very abitious front-end developer looking for a role in 
                     established IT company with the opportunity to work with the latest
                     technologies on challenging and deverse projects.
                 </p>
-                <p>
+                <p className='add-size'>
                     I'm quietly confident, naturally curious, and perpetually working on improving
                     my chops one design problem at a time.
                 </p>
-                <p>
+                <p className='add-size'>
                     If I need to define myself in one sentence that would be a tech-obsessed,
                      a sports fanatic, photography enthusiast!!
                 </p>
